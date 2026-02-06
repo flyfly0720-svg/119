@@ -73,3 +73,6 @@ for _, row in pediatric_df.iterrows():
 
 st.markdown("---")
 st.caption("⚠️ 실제 응급 상황에서는 반드시 119에 먼저 연락하세요 🚑🔥")
+
+
+
